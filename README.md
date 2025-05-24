@@ -13,4 +13,4 @@ If you want to look inside of money-tracker, check [this repository](https://htt
 ### View all operations in a structred way
 ![](https://github.com/mysterious-hatter/money-tracker/blob/main/photos/operations_list.png)
 ### Search opeations in the wallet
-![](https://github.com/mysterious-hatter/money-tracker/blob/main/photos/search.png)
+![](https://github.com/mysterious-hatter/money-tracker/blob/main/photos/search_operation.png)
